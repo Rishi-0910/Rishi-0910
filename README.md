@@ -3,7 +3,7 @@
 
 - 🎓 Currently pursuing a B.Tech degree in **AI&DS at PARUL UNIVERSITY**
 
-- ##🌟✨ Skills ✨🌟
+- ## 🌟✨ Skills ✨🌟
 
 ## 🚀Web Development
 <img align="right" height="150" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
