@@ -3,7 +3,7 @@
 
 - 🎓 Currently pursuing a B.Tech degree in **AI&DS at PARUL UNIVERSITY**
 
-- ## Skills
+- ##🌟✨ Skills ✨🌟
 
 ## 🚀Web Development
 <img align="right" height="150" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
@@ -29,9 +29,9 @@
 ## 🚀Programming Languages
 <img align="right" height="150" src="https://cdn.dribbble.com/users/759099/screenshots/2915547/comp_3_1.gif" />
 
-* 📟**C:** Strong foundation in data structures and algorithms.
-* 🍵**Java:** Object-oriented programming principles and application development.
-* 🐍**Python:** Basic scripting and data manipulation.
+* 📟 C-> Strong foundation in data structures and algorithms.
+* 🍵 Java-> Object-oriented programming principles and application development.
+* 🐍 Python-> Basic scripting and data manipulation.
 <br>
 <br>
 <br>
