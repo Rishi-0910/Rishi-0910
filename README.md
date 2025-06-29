@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishi</h1>
+<h1 align="center">Hi 👋, I'm Rishik </h1>
 <h3 align="center">I`m B.TECH STUDENT from PARUL UNIVERSITY</h3>
 
 - 🎓 Currently pursuing a B.Tech degree in **AI&DS at PARUL UNIVERSITY**
