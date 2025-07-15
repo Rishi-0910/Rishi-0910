@@ -17,7 +17,7 @@
 <img align="right" height="150" src="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/c6f42592-84d5-4e9e-90ba-5cd7b9d0c574">
 * 🔰MongoDB-> Working with NoSQL databases for flexible data storage.<br>
 * 🐬SQL-> Designing and querying relational databases.<br>
-<br><br><br><br><br>
+<br><br><br><br><br>.
 
 ##
 ## 🚀Programming Languages
@@ -25,7 +25,7 @@
 * 📟 C-> Strong foundation in data structures and algorithms.<br>
 * 🍵 Java-> Object-oriented programming principles and application development.<br>
 * 🐍 Python-> Basic scripting and data manipulation.<br>
-<br><br><br>
+<br><br><br>.
 
 ##
 ## 🚀Data Structures and Algorithms (DSA)
