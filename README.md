@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishik </h1>
-<h3 align="center">I`m B.TECH STUDENT from PARUL UNIVERSITY</h3>
+<h3 align="center">I`m B.TECH STUDENT from PARUL UNIVERSITY</h3>.
 
-- 🎓 Currently pursuing a B.Tech degree in **AI&DS at PARUL UNIVERSITY**
+- 🎓 Currently pursuing a B.Tech degree in **AI&DS at PARUL UNIVERSITY**.
 
-- ## 🌟✨ Skills ✨🌟
+- ## 🌟✨ Skills ✨🌟.
 
-## 🚀Web Development
+## 🚀Web Development.
 <img align="right" height="150" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 💻HTML-> Building semantic and accessible web structures.<br>
 💻CSS-> Styling web pages with modern layouts and responsive designs.<br>
